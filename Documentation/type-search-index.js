@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"XML_Learn.DOM_Parser","l":"DOM_Reader"},{"p":"XML_Learn.File_Handling","l":"File_Reader"},{"p":"XML_Learn.File_Handling","l":"File_Writer"},{"p":"XML_Learn","l":"Main"}];updateSearchResults();
